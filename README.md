@@ -1,6 +1,8 @@
-# anny📚
+<p style="background-color:#d8b4fe; color:#000; padding:2px; border-solid: 2px; display:inline-block;">
+📚Anny ....
+</p>
 
-#linguagens💜
+#linguagens
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
