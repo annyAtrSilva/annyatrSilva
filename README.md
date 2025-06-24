@@ -12,7 +12,7 @@
 
 ###
 
-<img align="left" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img src="https://i.imgflip.com/65efzo.gif" width="200px"/>
 
 ###
 
