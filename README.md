@@ -12,7 +12,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/annyAtrSilva/Teste-github-pages/refs/heads/main/picrew_1750806715097730.png?token=GHSAT0AAAAAADF6NBDRI67E5ZBY3W2563UE2C3HANA" width="200px"/>
+<img src="https://raw.githubusercontent.com/annyAtrSilva/Teste-github-pages/refs/heads/main/picrew_1750806715097730.png?token=GHSAT0AAAAAADF6NBDQPVGUIMPXYRT24ERE2C3L2BA" width="200px"/>
 
 ###
 
