@@ -3,7 +3,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/annyAtrSilva/Teste-github-pages/refs/heads/main/picrew_1750806715097730.png?token=GHSAT0AAAAAADF6NBDQPVGUIMPXYRT24ERE2C3L2BA" width="200px"/>
+<img src="https://i.imgflip.com/65efzo.gif" width="200px"/>
 
 ###
 <div align="left">
